@@ -5,4 +5,7 @@
     databaseURL: "https://employee-group.firebaseio.com",
     storageBucket: "employee-group.appspot.com",
   };
+  
   firebase.initializeApp(config);
+
+
